@@ -27,3 +27,7 @@ DELETE FROM table;
 DELETE FROM table
 WHERE condition;
 Удаление записей, соответствующих условию
+
+DROP TABLE IF EXISTS name table;
+Удаление таблицы из базы данных
+
